@@ -13,7 +13,7 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("jjjjjjjjjjjjjjjj")
+        print("lets make some merge conflict")
         NotificationCenter.default.addObserver(self, selector: #selector(changeColor), name: Notification.Name("red"), object: nil)
         NotificationCenter.default.addObserver(self, selector: #selector(changeColorTwo), name: Notification.Name("green"), object: nil)
     }
@@ -26,6 +26,8 @@ class ViewController: UIViewController {
             colorLabel.backgroundColor = UIColor.green
         navigationController?.popViewController(animated: true)
     }
-
+    func forMergeConflictVisualization() {
+        print("conflict")
+    }
     }
 
