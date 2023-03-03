@@ -17,7 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		B5E0857B28E7853C00FBCC6B /* gggg.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = gggg.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		B5E0857B28E7853C00FBCC6B /* NotificationCentrTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NotificationCentrTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B5E0857E28E7853C00FBCC6B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B5E0858028E7853C00FBCC6B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		B5E0858228E7853C00FBCC6B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -43,7 +43,7 @@
 			isa = PBXGroup;
 			children = (
 				B5E0859228E785BA00FBCC6B /* secondViewController.swift */,
-				B5E0857D28E7853C00FBCC6B /* gggg */,
+				B5E0857D28E7853C00FBCC6B /* NotificationCentrTest */,
 				B5E0857C28E7853C00FBCC6B /* Products */,
 			);
 			sourceTree = "<group>";
@@ -51,12 +51,12 @@
 		B5E0857C28E7853C00FBCC6B /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				B5E0857B28E7853C00FBCC6B /* gggg.app */,
+				B5E0857B28E7853C00FBCC6B /* NotificationCentrTest.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		B5E0857D28E7853C00FBCC6B /* gggg */ = {
+		B5E0857D28E7853C00FBCC6B /* NotificationCentrTest */ = {
 			isa = PBXGroup;
 			children = (
 				B5E0857E28E7853C00FBCC6B /* AppDelegate.swift */,
@@ -67,7 +67,7 @@
 				B5E0858928E7854100FBCC6B /* LaunchScreen.storyboard */,
 				B5E0858C28E7854100FBCC6B /* Info.plist */,
 			);
-			path = gggg;
+			path = NotificationCentrTest;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -87,7 +87,7 @@
 			);
 			name = gggg;
 			productName = gggg;
-			productReference = B5E0857B28E7853C00FBCC6B /* gggg.app */;
+			productReference = B5E0857B28E7853C00FBCC6B /* NotificationCentrTest.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -105,7 +105,7 @@
 					};
 				};
 			};
-			buildConfigurationList = B5E0857628E7853C00FBCC6B /* Build configuration list for PBXProject "gggg" */;
+			buildConfigurationList = B5E0857628E7853C00FBCC6B /* Build configuration list for PBXProject "NotificationCentrTest" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -294,8 +294,8 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = gggg/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = gttffv;
+				INFOPLIST_FILE = NotificationCentrTest/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = NotificationCentrTest;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -306,8 +306,8 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = MaxLavrentev.gggg;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = MaxLavrentev.NotificationCentrTest;
+				PRODUCT_NAME = NotificationCentrTest;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -322,8 +322,8 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = gggg/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = gttffv;
+				INFOPLIST_FILE = NotificationCentrTest/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = NotificationCentrTest;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -334,8 +334,8 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = MaxLavrentev.gggg;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = MaxLavrentev.NotificationCentrTest;
+				PRODUCT_NAME = NotificationCentrTest;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -345,7 +345,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		B5E0857628E7853C00FBCC6B /* Build configuration list for PBXProject "gggg" */ = {
+		B5E0857628E7853C00FBCC6B /* Build configuration list for PBXProject "NotificationCentrTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B5E0858D28E7854100FBCC6B /* Debug */,
