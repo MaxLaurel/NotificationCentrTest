@@ -14,15 +14,14 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         NotificationCenter.default.addObserver(self, selector: #selector(changeColor), name: Notification.Name("red"), object: nil)
-        NotificationCenter.default.addObserver(self, selector: #selector(changeColor2), name: Notification.Name("green"), object: nil)
-        print("newFix)
+        NotificationCenter.default.addObserver(self, selector: #selector(changeColorTwo), name: Notification.Name("green"), object: nil)
     }
     
     @objc func changeColor() {
             colorLabel.backgroundColor = UIColor.red
         navigationController?.popViewController(animated: true)
         }
-    @objc func changeColor2() {
+    @objc func changeColorTwo() {
             colorLabel.backgroundColor = UIColor.green
         navigationController?.popViewController(animated: true)
     }
