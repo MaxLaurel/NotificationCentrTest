@@ -15,8 +15,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "B5E0857A28E7853C00FBCC6B"
-               BuildableName = "gggg.app"
-               BlueprintName = "gggg"
+               BuildableName = "NotificationCentrTest.app"
+               BlueprintName = "NotificationCentrTest"
                ReferencedContainer = "container:NotificationCentrTest.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -45,8 +45,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "B5E0857A28E7853C00FBCC6B"
-            BuildableName = "gggg.app"
-            BlueprintName = "gggg"
+            BuildableName = "NotificationCentrTest.app"
+            BlueprintName = "NotificationCentrTest"
             ReferencedContainer = "container:NotificationCentrTest.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -62,8 +62,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "B5E0857A28E7853C00FBCC6B"
-            BuildableName = "gggg.app"
-            BlueprintName = "gggg"
+            BuildableName = "NotificationCentrTest.app"
+            BlueprintName = "NotificationCentrTest"
             ReferencedContainer = "container:NotificationCentrTest.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>

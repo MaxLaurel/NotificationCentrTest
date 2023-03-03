@@ -73,9 +73,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		B5E0857A28E7853C00FBCC6B /* gggg */ = {
+		B5E0857A28E7853C00FBCC6B /* NotificationCentrTest */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B5E0858F28E7854100FBCC6B /* Build configuration list for PBXNativeTarget "gggg" */;
+			buildConfigurationList = B5E0858F28E7854100FBCC6B /* Build configuration list for PBXNativeTarget "NotificationCentrTest" */;
 			buildPhases = (
 				B5E0857728E7853C00FBCC6B /* Sources */,
 				B5E0857828E7853C00FBCC6B /* Frameworks */,
@@ -85,7 +85,7 @@
 			);
 			dependencies = (
 			);
-			name = gggg;
+			name = NotificationCentrTest;
 			productName = gggg;
 			productReference = B5E0857B28E7853C00FBCC6B /* NotificationCentrTest.app */;
 			productType = "com.apple.product-type.application";
@@ -118,7 +118,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				B5E0857A28E7853C00FBCC6B /* gggg */,
+				B5E0857A28E7853C00FBCC6B /* NotificationCentrTest */,
 			);
 		};
 /* End PBXProject section */
@@ -354,7 +354,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B5E0858F28E7854100FBCC6B /* Build configuration list for PBXNativeTarget "gggg" */ = {
+		B5E0858F28E7854100FBCC6B /* Build configuration list for PBXNativeTarget "NotificationCentrTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B5E0859028E7854100FBCC6B /* Debug */,
