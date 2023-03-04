@@ -11,6 +11,7 @@ class secondViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        print("new commit")
 
     }
     
